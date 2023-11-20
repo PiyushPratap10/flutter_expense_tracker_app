@@ -1,6 +1,6 @@
 # flutter_expense_tracker
 
-A new Flutter project.
+An expense tracker application for android phones. It has required features to be a great expense tracked application.
 
 ## Getting Started
 
